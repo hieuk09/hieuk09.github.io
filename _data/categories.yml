@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: rails
+  name: Rails
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: monkey-patching
+  name: "Monkey Patching"
