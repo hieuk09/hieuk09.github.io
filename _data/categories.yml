@@ -1,5 +1,8 @@
 - slug: rails
   name: Rails
 
-- slug: monkey-patching
+- slug: monkey_patching
   name: "Monkey Patching"
+
+- slug: testing
+  name: Testing
