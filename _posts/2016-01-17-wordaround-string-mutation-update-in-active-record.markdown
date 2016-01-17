@@ -37,7 +37,7 @@ user.save
 User.first.email # => "hieu@tinypulse.com"
 {% endhighlight %}
 
-## Summary
+## Lession learn
 
 Mutation lead to a lot of side-effect bugs like this, so I try to avoid it
 whenever possible. It's just so convenient in Rails, though...
