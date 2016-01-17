@@ -6,3 +6,6 @@
 
 - slug: testing
   name: Testing
+
+- slug: activerecord
+  name: ActiveRecord
