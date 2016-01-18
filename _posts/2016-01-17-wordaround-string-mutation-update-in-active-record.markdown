@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ActiveRecord bug: Can not save when mutate string attribute"
+title: "ActiveRecord 3.2 bug: Can not save when mutate string attribute"
 date:   2016-01-17
 categories: [activerecord]
 ---
 
 This is the English version of [my original post][original-kipalog-post].
+
+*Note*: This bug is fixed from ActiveRecord 4.0
 
 ## The weird bug
 
