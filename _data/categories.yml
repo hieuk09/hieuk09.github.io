@@ -9,3 +9,6 @@
 
 - slug: activerecord
   name: ActiveRecord
+
+- slug: emulator
+  name: Emulator
