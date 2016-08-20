@@ -12,3 +12,6 @@
 
 - slug: emulator
   name: Emulator
+
+- slug: ruby
+  name: Ruby
