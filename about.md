@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Just who the hell do you think I am?
+subtitle: Who the hell do you think I am? (Kamina - Gurrent Lagann)
 permalink: /about/
 ---
 
-- Ruby developers with 4 years experience in software development
-- Contributors of [Lotus][lotus]
+- Ruby developers with 5 years experience in software development
+- Contributors of [Hanami][hanami]
 - Arsenal fan
 - Nothing else to add right now.
 
-[lotus]: http://github.com/lotus
+[hanami]: http://github.com/hanami
