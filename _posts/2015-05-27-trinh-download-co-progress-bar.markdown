@@ -10,11 +10,11 @@ Khi làm việc với Ruby và Rails, có lẽ không ít lần các bạn đã 
 Bạn có thể dùng kết hợp gem `ruby-progressbar` và `OpenURI` để lấy thông tin và hiển thị tiến trình download. Một thanh tiến trình để hiển thị có thể được khởi tạo đơn giản như sau:
 ```ruby
 progress_bar = ProgressBar.create(
-    starting_at: 0,
-    total: nil,
-    format: "%a %B %p%% %r KB/sec",
-    rate_scale: lambda { |rate| rate / 1024 }
-    )
+  starting_at: 0,
+  total: nil,
+  format: "%a %B %p%% %r KB/sec",
+  rate_scale: lambda { |rate| rate / 1024 }
+)
 ```
 
 Sau khi lấy được header của file, bạn cần gán nó cho độ dài của thanh tiến trình. `OpenURI` hỗ trợ `content_length_proc` callback để làm điều này:
@@ -39,8 +39,8 @@ progress_proc = Proc.new { |bytes_transferred|
 progress_proc = Proc.new { |bytes_transferred|
   if progress_bar.total && progress_bar.total < bytes_transferred
     progress_bar.total = nil
-      end
-      progress_bar.progress = bytes_transferred
+  end
+  progress_bar.progress = bytes_transferred
 }
 ```
 
