@@ -11,5 +11,11 @@ $cloudy: #828282;
 @import
     "mixins",
     "default",
-    "404"
+    "404",
+    "fontello"
 ;
+
+li {
+  line-height: 20px;
+  margin-bottom: 3px;
+}
