@@ -10,4 +10,11 @@ permalink: /about/
 - Arsenal fan
 - Nothing else to add right now.
 
+## Talks
+
+- [Introduce Warden][introduce_warden]
+- [Using AREL to refactor big query][arel]
+
 [hanami]: http://github.com/hanami
+[introduce_warden]: http://www.slideshare.net/HieuNguyenTrung/introduce-warden
+[arel]: http://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries
