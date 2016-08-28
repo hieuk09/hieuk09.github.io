@@ -8,6 +8,7 @@ categories: [ruby]
 Khi làm việc với Ruby và Rails, có lẽ không ít lần các bạn đã gặp các tác vụ download file về server của mình. Ruby hỗ trợ nhiều công cụ download khác nhau, từ đơn giản đến phức tạp, như `Net::HTTP`, `OpenURI` hay `Mechanize`, ... Tuy nhiên, các thư viện này không có sẵn chức năng hiển thị tiến trình (progress) cho người dùng, do đó đôi lúc bạn sẽ không biết là chương trình của mình đang chạy hay là đã treo rồi.
 
 Bạn có thể dùng kết hợp gem `ruby-progressbar` và `OpenURI` để lấy thông tin và hiển thị tiến trình download. Một thanh tiến trình để hiển thị có thể được khởi tạo đơn giản như sau:
+
 ```ruby
 progress_bar = ProgressBar.create(
   starting_at: 0,
