@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 - Ruby developers with 5 years experience in software development
+- Currently Senior Developer of [TINYpulse][tinypulse]
 - Contributors of [Hanami][hanami]
 - Arsenal fan
 - Nothing else to add right now.
@@ -14,7 +15,10 @@ permalink: /about/
 
 - [Introduce Warden][introduce_warden]
 - [Using AREL to refactor big query][arel]
+- [Metaprogramming - Secrets behind Rails][metaprograming-rails]
 
 [hanami]: http://github.com/hanami
 [introduce_warden]: http://www.slideshare.net/HieuNguyenTrung/introduce-warden
 [arel]: http://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries
+[metaprograming-rails]: http://www.slideshare.net/HieuNguyenTrung/metaprograming-rails-secret
+[tinypulse]: http://www.tinypulse.com
