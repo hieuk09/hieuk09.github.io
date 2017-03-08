@@ -6,10 +6,10 @@ categories: ruby
 ---
 
 Recently, our application begins to scale up, and we have many separate
-services which is developed to satisfy different need of the customers. However,
+services which are developed to satisfy different need of the customers. However,
 since we introduce all of them as a bundle, we need to somehow
 integrate all these separate services into single userbase without
-couple the code together. The first step into that would be a
+coupling the code together. The first step into that would be a
 single-sign-on service to centralize the authentication step. This is
 the first time I build this kind of SOA, or to be more trendy,
 microservices architecture, so I have a lot to learn. This is my
