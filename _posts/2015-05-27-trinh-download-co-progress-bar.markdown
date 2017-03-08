@@ -2,7 +2,7 @@
 layout: post
 title:  "Viết trình download có thanh tiến trình với ruby"
 date:   2015-05-27
-categories: [ruby]
+categories: ruby
 ---
 
 Khi làm việc với Ruby và Rails, có lẽ không ít lần các bạn đã gặp các tác vụ download file về server của mình. Ruby hỗ trợ nhiều công cụ download khác nhau, từ đơn giản đến phức tạp, như `Net::HTTP`, `OpenURI` hay `Mechanize`, ... Tuy nhiên, các thư viện này không có sẵn chức năng hiển thị tiến trình (progress) cho người dùng, do đó đôi lúc bạn sẽ không biết là chương trình của mình đang chạy hay là đã treo rồi.

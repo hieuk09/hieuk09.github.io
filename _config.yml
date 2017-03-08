@@ -1,19 +1,17 @@
 # Site settings
 title: "Saitama's Punch"
-description: >
-  This is my personal notes about technical, manga and everything I find
-  interest in my life.
+author: "Hieu Nguyen"
+description: "This is my personal notes about technical, manga and everything I find interesting in my life."
+keywords: "Software Engineering, Manga, Technical, Ruby"
+biography: "I am a Senior Software Engineer at <a href='www.tinypulse.com'>TINYpulse</a>, Saigon"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "hieuk09.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://hieuk09.github.io"
 
-author:
-  fullname: Hieu Nguyen
-  github: hieuk09
-  twitter: sincepast
-  # disqus: your_disqus_username
+twitter_username: sincepast
+github_username: hieuk09
 
-# google_analytics: 'UA-XXXXXXXX-X'
-
-# Build settings
+simple_search: http://google.com/search
 markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/

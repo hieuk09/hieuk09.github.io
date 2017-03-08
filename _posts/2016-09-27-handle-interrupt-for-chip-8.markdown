@@ -2,7 +2,7 @@
 layout: post
 title: "Handle Interrupt for Chip 8"
 date:   2016-09-27
-categories: [emulator]
+categories: emulator
 ---
 
 ## Introduction ([Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#keyboard))

@@ -2,7 +2,7 @@
 layout: post
 title: "NES specification - reading note - part 1"
 date:   2016-08-16
-categories: [emulator]
+categories: emulator
 ---
 
 # Note on NES specification

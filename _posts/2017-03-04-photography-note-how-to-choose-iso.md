@@ -2,7 +2,7 @@
 layout: post
 title: "Photography note - How to choose your ISO"
 date:   2017-03-04
-categories: [photography]
+categories: photography
 ---
 
 ISO is dependent on the camera censor because the digital camera noise look very

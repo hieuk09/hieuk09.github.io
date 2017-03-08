@@ -2,7 +2,7 @@
 layout: post
 title: "Look into Ruby Profiler"
 date:   2016-09-17
-categories: [ruby]
+categories: ruby
 ---
 
 # Look into Ruby Profiler

@@ -2,7 +2,7 @@
 layout: post
 title:  "To let or not to let?"
 date:   2015-12-26
-categories: [testing]
+categories: testing
 ---
 
 This is the English version of [my original post][original-kipalog-post].
