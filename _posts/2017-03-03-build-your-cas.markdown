@@ -75,13 +75,13 @@ Log out:
 
   + Implementation require 2 scenarios
 
-    1. Logout from authentication server (Engage): clear session, then expire the
+    1. Logout from authentication server: clear session, then expire the
     long-live token. When app server try to check expiration of long live token,
     they will see that it's expire, lead to app server automatically clears session
 
       ![Log out from authentication server](https://lh3.googleusercontent.com/eVfhV_6FQ8KfBle2bYQhNFOlvkRmDPOEDmWYSLCM3jtZZACmqOIIL6GHiOvnKg18m86pJlLU404CDOWArdMLoQoEOnoEKXV1elGwsnba-LAYjKoH9qWwr0k5sMyxpkNUTNbKs5eob1i8s7JDqgmYdJ6flySZEgUJRabUD08G9MRnsgnTL0NOM79JAbZXd1fMOIQpkV1GnFJK7s7QnSGB0c6g0s3-DB14TVmtkXt6gErPEHzCh4jRLez_E01lZvus-g8-K69EWd1vqZaYeCWSsYTSOtNY64M6f6GLe0S0oQdvw5ksCF68TlNMcS6d5W4fLoK3k7IN6fOb-fv3NAPZOQt-CfhVf0DYRwRRzZxRRhS__Jm_XUbIKV98JDcDHE_fLyM_YP6znjSXhcpCntTbt5v3TWlRlOBfX6peFmKn15_MA1LnRYGECX2doq-3a_Y5nyDP0u2b0t9z4K3qwm-9-RZ5weyUUnXQcd8vJZKG8xj68CJbbRh6BlNri_6h-hydQ3qOXBmFQCKqDMTWloDhrMq0ce2s5pEcmuba8qvRP-cOm8t7MUg2_Eih2h0GRnYw47lJe1K-K6oAcxk79Dzxad6qLtuFFVY1ageomwRt9TA-f7_qzi_l=w466-h464-no)
 
-    2. Logout from app server (ex: Talent): clear session, redirect to log out
+    2. Logout from app server: clear session, redirect to log out
     from authentication server
 
       ![Log out from app server](https://lh3.googleusercontent.com/7RBiakMVDk-GxilhNsbMG6bSjNEJNHDi5uY5BzAbw7RVNP9MMOUFnQ53F3ZaALyn1gU3yMIYTUdxei7NZUaVyEtdGO-AWFvtepMrECMt5rW1kqHouFrtXLMIvXXbeMbjgmfBon5eZFhi2Nk22lLhhWe_fnHwRiw9C-GfebA1R6s4EP5E4pzfMUOnNMLbVyvecQJ_CxNC0u7Dlc80S-J4tKrJpvT5HJs_ZLfRgEFpAkqreYJa378qPwR5ApqDs6YDU3d96rXaxS0NSSrAfvTrnNr5HK0ictZRxme4HcaDIpwZRjx_v760pviTdZ9Bu0LNeOfMiWGELu9r3r1M4ug9FpfvJg_bDEuZXIHrPlXGpXvLxb9uTMPdY2vi_-EifR3jY7wrUK7DBk_t9Vir3lJ03liRHw94s2b3WhFdogB6Bv_d1DAhZ80ikQTSAMBWIgE1aOOsCgvEdl7-KtiK2kFkydeFgvOxDTtHiDwNdtk6ARVmxnfKVJ8xHtZmBat_-bovjq-ldc2L5F3t55vXP6rYS_wg_ZMMjLTXvudrPzTw7ai3ZlAY9zCBobo2uU6Y0Zz7LU93BdfjHOB-zZHfgAa4_hrU7D7TxF4r0mMS3IFzyARjnhcUvdDJ=w466-h271-no)
