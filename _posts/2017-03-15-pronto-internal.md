@@ -50,7 +50,7 @@ formatter will use. Each formatter will use different variable.
 
 ## Dive into the `Pronto.run`
 
-![pronto run](https://lh4.googleusercontent.com/28o4wpdN0Rb4N2Kf9HhQohOAzXlZYX4iBQo1NS07rydqTsb_qM4f45uiQ9cKur43968VkXRv=w2100-h1270)
+![pronto run](https://lh3.googleusercontent.com/1SxouFKw7h56G_pK4zJwYHxCXlh4Xfd9OmnV61l9kvniyTI2aH4IKcv628dI7TVY12BPNBjTFoM4x5IsgiJwb6HFDkfUXnLddOgsMDUQcqe3cfOQNHcIUK2OYF-VjMvHG5S74FtSB_eMuJxbW4oWpuZ0OObHbO0QMaTM4bLmD3yoRr18FqxdSpwUrWSnHz3GODVkOLcHgFFAKsmreKIBfxzTaPXzxAmcm8aH90Fmfrsc1oEB6YLTfZJOJwSSUS_YMvVXQdbJIiHCkNy6AFoktnM85BOymJJ7XrosZm0-o4HmPINLtXrk8Xgk_EuCP6yrouQuPDDx4c-taF392afZAftqeTik59A2ebxCE5Aqj5mAY9005qmJuY-GpKbjyRB0zyrlfTDda1aoRxo-xPb5Cyf6Z3OrqN2GEIQav7SPrUCg-8gf96wdqhm0WonAirp9VtHrlc2M8QIwlKoRZNnAGWZ3_pMhq7v0Jnz1-QsYE6i2DwUWvM_ccLjEFFgYrzcTfhmzMkDhyDfegJg6jKXaPrHnJY8rCl2m5Mch9GjM-UgqAX0VwO8E0o1KkP3P9vTl7hI0YKE1Xf3uWVKEBvJxlis0TpCbGvvvtMQVq7yVjMFv88dimcix=w611-h392-no)
 
 - `Pronto::CLI#run` will pass `repo_path`, `commit` and `formatters` to
 `Pronto.run` as arguments.
