@@ -90,6 +90,8 @@ severity.
 we can benefit from them like pronto does:
 
 1. Linters which has good architecture that separates processing and output
-formatting, so that we can modify the output easily.
+formatting, so that we can modify the output easily. I saw that there are
+[golint](https://github.com/golang/lint), [govet](https://golang.org/cmd/vet/) and [metalinter](https://github.com/alecthomas/gometalinter) which are very promising.
 2. Git client similar to rugged so that we can manipulate git repository to get
-all the patches and changes.
+all the patches and changes. Lib2git already published a git client similar to
+rugged in golang: [git2go](https://github.com/libgit2/git2go)
