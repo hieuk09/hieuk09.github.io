@@ -5,7 +5,7 @@ date:   2017-05-01
 categories: book
 ---
 
-"Power of Habit" is a very interesting book of Charles Duhigg about how some very
+"Power of Habit" is a very interesting book of Charles Duhigg about how some
 core components of our life are made by habit and how to manipulate them to our
 will. This is some notes of mine when reading the book.
 
