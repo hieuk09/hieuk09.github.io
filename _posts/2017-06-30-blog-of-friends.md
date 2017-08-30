@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Friends' Blog"
-date:   2017-05-01
+date:   2017-06-30
 categories: Blogs
 ---
 

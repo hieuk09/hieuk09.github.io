@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create a StarCraft II Bot - Part 1: Setup on MacOS"
-date:   2017-05-01
+date:   2017-08-30
 categories: cpp bot
 ---
 
