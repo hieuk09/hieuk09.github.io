@@ -1,17 +1,19 @@
-# Site settings
-title: "Saitama's Punch"
-author: "Hieu Nguyen"
-description: "This is my personal notes about technical, manga and everything I find interesting in my life."
-keywords: "Software Engineering, Manga, Technical, Ruby"
-biography: "I am a Senior Software Engineer at <a href='www.tinypulse.com'>TINYpulse</a>, Saigon"
+# Dependencies
+markdown:         kramdown
+highlighter:         rouge
 
-baseurl: ""
-url: "http://hieuk09.github.io"
+# Permalinks
+permalink:        /post/:title
 
-twitter_username: sincepast
-github_username: hieuk09
+# Setup
+title:            "Saitama's Punch"
+description:      "This is my personal notes about technical, manga and everything I find interest in my life."
+url:              "hieuk09.github.io"
+baseurl:          "/"
 
-simple_search: http://google.com/search
-markdown: kramdown
-highlighter: rouge
-permalink: /blog/:year/:month/:day/:title/
+author:
+  name:           "Hieu Nguyen"
+
+# Custom vars
+twitter:        https://twitter.com/sincepast
+github:         https://github.com/hieuk09
