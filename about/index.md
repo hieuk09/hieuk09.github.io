@@ -24,7 +24,7 @@ Bachelor Degree at Ho Chi Minh City University of Science
 
 ### Sep 2015 - Now: Software Engineer at TINYpulse
 
-- Double the system capacity from 150k to 300k users without any major issues
+- Double the userbase from 150k to 300k users without any major issues
 - Refactor survey generating tool to make it 10x faster
 - Rework the Question Management module (most requested feature) to make it
 faster and more flexible
