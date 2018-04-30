@@ -43,14 +43,14 @@ to run the benchmark.
 Capybara provides a simple way to customize the server to run your rails application:
 
 ```ruby
-Capybara.register_server :puma do |app, post, host|
+Capybara.register_server :puma do |app, port, host|
   require 'rack/handler/puma'
-  Rack::Handler::Puma.run(app, Post: post, Host: host)
+  Rack::Handler::Puma.run(app, Port: port, Host: host)
 end
 
-Capybara.register_server :thin do |app, post, host|
+Capybara.register_server :thin do |app, port, host|
   require 'rack/handler/thin'
-  Rack::Handler::Thin.run(app, Post: post, Host: host)
+  Rack::Handler::Thin.run(app, Port: port, Host: host)
 end
 
 Capybara.server = :thin
