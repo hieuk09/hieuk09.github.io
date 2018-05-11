@@ -53,3 +53,11 @@ people search for food/location in Saigon using Vietnamese.
 
 - Develop SKILL program to generate chip design from specification data
 
+------------------
+
+## Slides
+
+- [Behind Rails magic](https://www.slideshare.net/HieuNguyenTrung/metaprograming-rails-secret)
+- [Introduce to Warden](https://www.slideshare.net/HieuNguyenTrung/introduce-warden)
+- [Using Arel to refactor big queries](https://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries)
+- [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
