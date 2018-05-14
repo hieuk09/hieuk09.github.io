@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Operators precendence in Ruby"
-date:   2018-05-12
+date:   2018-05-02
 categories: ruby
 ---
 

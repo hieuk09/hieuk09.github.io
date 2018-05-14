@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading note: High Performance MySQL - Concurrency Control"
-date:   2018-05-12
+date:   2018-05-11
 categories: database
 ---
 
