@@ -12,11 +12,11 @@ This is the English version of [my original post][original-kipalog-post].
 ## The weird bug
 
 {% highlight ruby %}
-user = User.first # => #<User id: 1, email: "hieu@tinyhr.com">
-user.email.gsub!('tinyhr', 'tinypulse')
+user = User.first # => #<User id: 1, email: "someone@email.com">
+user.email.gsub!('email', 'mail')
 user.save
 
-User.first.email # => still "hieu@tinyhr.com"
+User.first.email # => still "someone@email.com"
 {% endhighlight %}
 
 ## The cause
@@ -32,11 +32,11 @@ won't change, and it won't pass the check.
 Simply create another reference for the attribute:
 
 {% highlight ruby %}
-user = User.first # => #<User id: 1, email: "hieu@tinyhr.com">
-user.email = user.email.gsub('tinyhr', 'tinypulse')
+user = User.first # => #<User id: 1, email: "someone@email.com">
+user.email = user.email.gsub('email', 'mail')
 user.save
 
-User.first.email # => "hieu@tinypulse.com"
+User.first.email # => "someone@mail.com"
 {% endhighlight %}
 
 ## Lession learn
