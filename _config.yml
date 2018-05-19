@@ -17,3 +17,5 @@ author:
 # Custom vars
 twitter:        https://twitter.com/sincepast
 github:         https://github.com/hieuk09
+plugins:
+  - jekyll-feed
