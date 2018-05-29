@@ -4,7 +4,7 @@ title: About me
 ---
 
 I'm Hieu, just another software engineer out there on the Internet. I'm
-currently working for Saigon Office of TINYpulse, a company based in Silicon Valley.
+currently working for Saigon Office of TINYpulse, a company based in Seattle.
 
 I'm interested in every aspect of programming, but concentrate in backend and game.
 I usually blog about coding, and sometimes also writes about books, manga and other
