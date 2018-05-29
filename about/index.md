@@ -55,9 +55,11 @@ people search for food/location in Saigon using Vietnamese.
 
 ------------------
 
-## Slides
+## Talks
 
-- [Behind Rails magic](https://www.slideshare.net/HieuNguyenTrung/metaprograming-rails-secret)
-- [Introduce to Warden](https://www.slideshare.net/HieuNguyenTrung/introduce-warden)
-- [Using Arel to refactor big queries](https://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries)
-- [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
+I gave a few talks in local Ruby meetup and TINYpulse
+
+- hanoi.rb 2014 - [Using Arel to refactor big queries](https://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries)
+- hcmc.rb 2015 - [Introduce to Warden](https://www.slideshare.net/HieuNguyenTrung/introduce-warden)
+- hcmc.rb 2016 - [Behind Rails magic](https://www.slideshare.net/HieuNguyenTrung/metaprograming-rails-secret)
+- TINYpulse 2018 - [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
