@@ -63,3 +63,5 @@ I gave a few talks in local Ruby meetup and TINYpulse
 - hcmc.rb 2015 - [Introduce to Warden](https://www.slideshare.net/HieuNguyenTrung/introduce-warden)
 - hcmc.rb 2016 - [Behind Rails magic](https://www.slideshare.net/HieuNguyenTrung/metaprograming-rails-secret)
 - TINYpulse 2018 - [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
+- TINYpulse 2018 - [Isolation
+Levels](https://www.slideshare.net/HieuNguyenTrung/understanding-isolation-levels/HieuNguyenTrung/understanding-isolation-levels)
