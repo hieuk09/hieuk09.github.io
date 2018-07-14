@@ -11,3 +11,4 @@ categories: blogs
 - [Julia Evans - https://jvns.ca/](https://jvns.ca/)
 - [https://opensourceconnections.com](https://opensourceconnections.com/blog/)
 - [https://queryunderstanding.com/](https://queryunderstanding.com/)
+- [http://thecodelesscode.com](http://thecodelesscode.com)
