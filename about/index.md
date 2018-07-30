@@ -3,9 +3,6 @@ layout: post
 title: About me
 ---
 
-I'm Hieu, just another software engineer out there on the Internet. I'm
-currently working for Saigon Office of TINYpulse, a company based in Seattle.
-
 I'm interested in every aspect of programming, but concentrate in backend and game.
 I usually blog about coding, and sometimes also writes about books, manga and other
 random stuffs.
@@ -22,7 +19,7 @@ Bachelor Degree at Ho Chi Minh City University of Science
 
 ## Work
 
-### Sep 2015 - Now: Software Engineer at TINYpulse
+### Sep 2015 - July 2018: Software Engineer at TINYpulse
 
 - Double the userbase from 150k to 300k users without any major issues
 - Refactor survey generating tool to make it 10x faster
