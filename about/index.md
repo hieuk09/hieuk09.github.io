@@ -4,7 +4,7 @@ title: About me
 ---
 
 I'm interested in every aspect of programming, but concentrate in backend and game.
-I usually blog about coding, and sometimes also writes about books, manga and other
+I usually blog about coding, and sometimes also write about books, manga and other
 random stuffs.
 
 # Experience
@@ -13,7 +13,9 @@ random stuffs.
 
 ## Education
 
-Bachelor Degree at Ho Chi Minh City University of Science
+- Bachelor Degree at Ho Chi Minh City University of Science
+- Third prize in HCMUS 2010 ACM-ICPC contest
+- Third prize in Vietnam 2011 ACM-ICPC contest
 
 ------------------
 
@@ -52,9 +54,15 @@ people search for food/location in Saigon using Vietnamese.
 
 ------------------
 
-## Talks
+## Community contribution
 
-I gave a few talks in local Ruby meetup and TINYpulse
+### vietnamrb
+
+I am admin of [Ruby-Vietnam](http://ruby.org.vn/), a community of ~2000 developers in Vietnam. From 2015,
+I help Trung Le, founder of the community, organize events in Ho Chi Minh City and Ha Noi. There has been more than
+[20 meetups and hacknite](https://www.facebook.com/pg/vietnam.ruby/events/?ref=page_internal) since then.
+
+Below are a few talks I present at the meetups:
 
 - hanoi.rb 2014 - [Using Arel to refactor big queries](https://www.slideshare.net/HieuNguyenTrung/using-arel-to-refactor-big-queries)
 - hcmc.rb 2015 - [Introduce to Warden](https://www.slideshare.net/HieuNguyenTrung/introduce-warden)
@@ -62,3 +70,13 @@ I gave a few talks in local Ruby meetup and TINYpulse
 - TINYpulse 2018 - [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
 - TINYpulse 2018 - [Isolation
 Levels](https://www.slideshare.net/HieuNguyenTrung/understanding-isolation-levels/HieuNguyenTrung/understanding-isolation-levels)
+
+### GIVEasia
+
+In 2015-2016, I helped [GIVEasia](give.asia), a crowd-funding platform for charity events as volunteer developer.
+The most notable feature that I developed there is the recurring payment module.
+
+### Kipalog
+
+From 2018, I work on [Kipalog](kipalog.com), a knowledge sharing platform for Vietnamese developers, to improve performance and test coverage.
+Occasionally, I also develop new features to improve the user experience.
