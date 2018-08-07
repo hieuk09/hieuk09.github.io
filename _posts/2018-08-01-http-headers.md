@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TIL - HTTP headers: Content negotiation"
-date:   2018-07-31
+date:   2018-08-01
 categories: programming
 ---
 

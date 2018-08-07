@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remove background with OpenCV"
-date:   2018-06-26
+date:   2018-07-20
 categories: opencv
 ---
 
