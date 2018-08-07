@@ -12,3 +12,4 @@ categories: blogs
 - [https://opensourceconnections.com](https://opensourceconnections.com/blog/)
 - [https://queryunderstanding.com/](https://queryunderstanding.com/)
 - [http://thecodelesscode.com](http://thecodelesscode.com)
+- [https://blog.acolyer.org/ - one paper review / weekday](https://blog.acolyer.org/)
