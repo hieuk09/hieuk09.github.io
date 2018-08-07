@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIL - Wierd behaviors of pluck and uniq in ActiveRecord"
+title: "TIL - Weird behavior of pluck and uniq in ActiveRecord"
 date:   2018-08-07
 categories: activerecord
 ---
@@ -42,4 +42,4 @@ harm readability/maintainability:
 category.products.pluck('DISTICT name') # works, but may fail if name is an aliased column
 ```
 
-I wonder why there is this wierd behavior...
+I wonder why there is this weird behavior...
