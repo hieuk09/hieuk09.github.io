@@ -73,7 +73,7 @@ Levels](https://www.slideshare.net/HieuNguyenTrung/understanding-isolation-level
 
 ### GIVEasia
 
-In 2015-2016, I helped [GIVEasia](give.asia), a crowd-funding platform for charity events as volunteer developer.
+In 2015-2016, I helped [GIVEasia](give.asia), a crowd-funding platform for charity events, as volunteer developer.
 The most notable feature that I developed there is the recurring payment module.
 
 ### Kipalog
