@@ -24,7 +24,7 @@ The methods to approach this research are pretty interesting:
 
 - They choose 12 popular OSS using Rails framework
 
-![Table 1]({{ site.url }}/assets/orm_anti_pattern_table_1.png)
+![Table 1](http://{{ site.url }}/assets/orm_anti_pattern_table_1.png)
 
 - They study those OSS by:
   + Inspecting 100-200 performance issues of each of those projects, checking the causes and the fixes.
@@ -36,7 +36,7 @@ The methods to approach this research are pretty interesting:
   After that, they query that instance from another instance using chrome-based crawler.
   They use Rails instrument and Chrome log to get result related to performance of a page load.
 
-![Table 2]({{ site.url }}/assets/orm_anti_pattern_table_2.png)
+![Table 2](http://{{ site.url }}/assets/orm_anti_pattern_table_2.png)
 
 From those methods, they find 64 performance issues and generalize a few anti-patterns:
 
@@ -50,7 +50,7 @@ After that, they proceed to fix the performance issues manually.
   50-60% achieve more than 2x improvement.
 - The fixes are simple to do: 78% require less than 5 line of code.
 
-![Table 3]({{ site.url }}/assets/orm_anti_pattern_table_3.png)
+![Table 3](http://{{ site.url }}/assets/orm_anti_pattern_table_3.png)
 
 From that result, they create a simple [regex-based static checker](https://github.com/hyperloop-rails/powerstation/tree/master/static-checker/)
 that automatically detects the ORM API misuses. That tool detects 428 cases of API misuses,

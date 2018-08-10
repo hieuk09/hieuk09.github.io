@@ -74,12 +74,12 @@ dataset, it's not really that bad. Therefore, I run my benchmark again with
 
 ### Benchmark pure rendering
 
-![pure_rendering_collection]({{ site.url }}/assets/pure_rendering_collection.png)
+![pure_rendering_collection](http://{{ site.url }}/assets/pure_rendering_collection.png)
 
 
 ### Benchmark rendering through API call
 
-![api_rendering_collection]({{ site.url }}/assets/api_rendering_collection.png)
+![api_rendering_collection](http://{{ site.url }}/assets/api_rendering_collection.png)
 
 As you can see: for simple collection rendering, it's quite fast, totally
 beating AMS and almost all other gems. However, for the most complex case, it
