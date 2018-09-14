@@ -13,3 +13,4 @@ categories: blogs
 - [https://queryunderstanding.com/](https://queryunderstanding.com/)
 - [http://thecodelesscode.com](http://thecodelesscode.com)
 - [https://blog.acolyer.org/ - one paper review / weekday](https://blog.acolyer.org/)
+- [UX la gi](https://uxlagi.com)
