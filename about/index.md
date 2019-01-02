@@ -21,6 +21,8 @@ random stuffs.
 
 ## Work
 
+### Nov 2018 - Present: Software Engineer at SalesWhale
+
 ### Sep 2015 - July 2018: Software Engineer at TINYpulse
 
 - Double the userbase from 150k to 300k users without any major issues
