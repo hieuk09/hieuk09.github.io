@@ -31,6 +31,8 @@ random stuffs.
 ### July 2018 - Jun 2019: Software Engineer at StadiumGoods
 
 - Maintain multiple applications to connect with suppliers
+  + Most noteable contribution: Price notifications and recommendations for
+  sellers
 - Build Mobile Application API to proxy call from Mobile App to multiple backend
 services
 
