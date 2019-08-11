@@ -21,7 +21,18 @@ random stuffs.
 
 ## Work
 
-### Nov 2018 - Present: Software Engineer at SalesWhale
+### June 2019 - Now: Software Engineer at Ascenda
+
+### Nov 2018 - May 2019: Software Engineer at SalesWhale
+
+- Revamp import/enrolment flow to simplify the process
+- Refactor critical part of Gmail/Outlook integration to make the system more stable
+
+### July 2018 - Jun 2019: Software Engineer at StadiumGoods
+
+- Maintain multiple applications to connect with suppliers
+- Build Mobile Application API to proxy call from Mobile App to multiple backend
+services
 
 ### Sep 2015 - July 2018: Software Engineer at TINYpulse
 
@@ -72,6 +83,8 @@ Below are a few talks I present at the meetups:
 - TINYpulse 2018 - [Better reviewer](https://www.slideshare.net/HieuNguyenTrung/better-reviewer)
 - TINYpulse 2018 - [Isolation
 Levels](https://www.slideshare.net/HieuNguyenTrung/understanding-isolation-levels/HieuNguyenTrung/understanding-isolation-levels)
+- Ascenda 2019 - [Isolation
+Levels](https://www.slideshare.net/HieuNguyenTrung/database-isolation-levels)
 
 ### GIVEasia
 
