@@ -63,7 +63,7 @@ to 3s
 - Build tool to pre-process raw data for ISago, a speech processing application which can help
 people search for food/location in Saigon using Vietnamese.
 
-### Jun 2011 - Sep 2012: Intern at eSilicon
+### Jun 2011 - Sep 2011: Intern at eSilicon
 
 - Develop SKILL program to generate chip design from specification data
 
