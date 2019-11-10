@@ -87,6 +87,7 @@ Below are a few talks I present at the meetups:
 Levels](https://www.slideshare.net/HieuNguyenTrung/understanding-isolation-levels/HieuNguyenTrung/understanding-isolation-levels)
 - Ascenda 2019 - [Isolation
 Levels](https://www.slideshare.net/HieuNguyenTrung/database-isolation-levels)
+- Ascenda 2019 - [Introduction to Fuzzing](https://www.slideshare.net/HieuNguyenTrung/introduction-to-fuzzing)
 
 ### GIVEasia
 
