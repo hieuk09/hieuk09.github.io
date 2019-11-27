@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark-Compact algorithm"
-date:   2018-10-19
+date:   2019-11-28
 categories: book
 ---
 
