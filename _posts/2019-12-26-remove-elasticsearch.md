@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Cleanly remove elasticsearch on MacOS with homebrew"
-date:   2018-10-19
-categories: book
+date:   2019-12-26
+categories: elasticsearch
 ---
 
 Install elasticsearch without removing old version can cause issues when
