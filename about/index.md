@@ -23,6 +23,13 @@ random stuffs.
 
 ### June 2019 - Now: Software Engineer at Ascenda
 
+- Lead Guardhouse team:
+  - Design and implement from ground up the authentication service (Guardhouse), which conforms
+  with OpenID standard. The system is flexible and extensible, can be integrated
+  with most bank SSO within a few days.
+  - Design and implement internal tools for all services to integrate with
+  Guardhouse, which boosts their productivity and reduce implementation time
+
 ### Nov 2018 - May 2019: Software Engineer at SalesWhale
 
 - Revamp import/enrolment flow to simplify the process
