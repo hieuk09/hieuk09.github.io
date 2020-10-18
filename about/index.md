@@ -23,12 +23,12 @@ random stuffs.
 
 ### June 2019 - Now: Software Engineer at Ascenda
 
-- Lead Guardhouse team:
-  - Design and implement from ground up the authentication service (Guardhouse), which conforms
-  with OpenID standard. The system is flexible and extensible, can be integrated
-  with most bank SSO within a few days.
-  - Design and implement internal tools for all services to integrate with
-  Guardhouse, which boosts their productivity and reduce implementation time
+Lead Guardhouse team:
+- Design and implement from ground up the authentication service (Guardhouse),
+  which conforms with OpenID standard. The system is flexible and extensible,
+  can be integrated with most bank SSO systems within a few days.
+- Design and implement internal tools for all services to integrate with Guardhouse,
+  which boosts their productivity and reduces implementation time.
 
 ### Nov 2018 - May 2019: Software Engineer at SalesWhale
 
@@ -37,11 +37,9 @@ random stuffs.
 
 ### July 2018 - Jun 2019: Software Engineer at StadiumGoods
 
-- Maintain multiple applications to connect with suppliers
-  + Most noteable contribution: Price notifications and recommendations for
-  sellers
-- Build Mobile Application API to proxy call from Mobile App to multiple backend
-services
+- Maintain multiple applications to connect with suppliers.
+- Build price notifications and recommendations for sellers.
+- Build API Gateway, which supports Mobile App to connect to various services.
 
 ### Sep 2015 - July 2018: Software Engineer at TINYpulse
 
