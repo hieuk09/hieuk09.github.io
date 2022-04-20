@@ -5,7 +5,7 @@ date:   2018-10-19
 categories: book
 ---
 
-There are three things that opens I try after reading this chapter:
+There are three things that I try after reading this chapter:
 
 - Store everything in a source version control: I find this particularly useful.
 After moving everything from my MacOS note to my daily log to a git repo, it's
