@@ -21,7 +21,15 @@ random stuffs.
 
 ## Work
 
-### June 2019 - Now: Software Engineer at Ascenda
+### Feb 2022 - Present: Software Engineer at Ascenda
+
+### Feb 2021 - Feb 2022: Software Engineer at Zendesk
+
+- Improve Observability for various services
+- Improve smoke and integration tests coverage for Chat Product
+- Work on migrating hundred of millions records from Riak to AWS Aurora
+
+### June 2019 - Feb 2021: Software Engineer at Ascenda
 
 Lead Guardhouse team:
 - Design and implement from ground up the authentication service (Guardhouse),
