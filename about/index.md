@@ -11,6 +11,11 @@ title: My Resume
 
 ### Feb 2022 - Present: Software Engineer at Ascenda
 
+- Implement enhancements to various authentication and authorization features, bolstering security and streamlining user access controls.
+- Lead the Observability initiative across the company, implementing robust monitoring and logging systems to ensure efficient troubleshooting and proactive issue resolution.
+- Manage a high-performing team, providing leadership, mentorship, and fostering professional growth among team members.
+- Collaborate with multiple teams to ensure informed design decision, in order to deliver a new product
+
 ### Feb 2021 - Feb 2022: Software Engineer at Zendesk
 
 - Improve Observability for various services
