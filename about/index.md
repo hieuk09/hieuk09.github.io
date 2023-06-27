@@ -1,21 +1,9 @@
 ---
 layout: post
-title: About me
+title: My Resume
 ---
 
-I'm interested in every aspect of programming, but concentrate in backend and game.
-I usually blog about coding, and sometimes also write about books, manga and other
-random stuffs.
-
 # Experience
-
-------------------
-
-## Education
-
-- Bachelor Degree at Ho Chi Minh City University of Science
-- Third prize in HCMUS 2010 ACM-ICPC contest
-- Third prize in Vietnam 2011 ACM-ICPC contest
 
 ------------------
 
@@ -79,6 +67,14 @@ people search for food/location in Saigon using Vietnamese.
 ### Jun 2011 - Sep 2011: Intern at eSilicon
 
 - Develop SKILL program to generate chip design from specification data
+
+------------------
+
+## Education
+
+- Bachelor Degree at Ho Chi Minh City University of Science
+- Third prize in HCMUS 2010 ACM-ICPC contest
+- Third prize in Vietnam 2011 ACM-ICPC contest
 
 ------------------
 
