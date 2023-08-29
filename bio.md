@@ -13,11 +13,26 @@ In my free time, I also contribute to open-source projects and organize tech eve
 
 ------------------
 
+## Conference
+
+### RubyConf India 2023
+
+#### Talk: Building a Resilient MFA Framework: Strategies and Best Practices
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strengthening Security: Unveiling the MFA Framework<br><br>Join us at <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> India to hear Hieu Nguyen&#39;s insights on crafting an unbreakable MFA framework. Your data safety matters – don&#39;t miss out!<a href="https://twitter.com/hashtag/rubyconfIndia?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconfIndia</a> <a href="https://twitter.com/hashtag/Rubyfriends?src=hash&amp;ref_src=twsrc%5Etfw">#Rubyfriends</a> <a href="https://twitter.com/hashtag/rubydevelopers?src=hash&amp;ref_src=twsrc%5Etfw">#rubydevelopers</a> <a href="https://twitter.com/hashtag/rubyconfindia2023?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconfindia2023</a> <a href="https://twitter.com/hashtag/ruby?src=hash&amp;ref_src=twsrc%5Etfw">#ruby</a> <a href="https://twitter.com/hashtag/rails?src=hash&amp;ref_src=twsrc%5Etfw">#rails</a> <a href="https://twitter.com/hashtag/RCI23?src=hash&amp;ref_src=twsrc%5Etfw">#RCI23</a> <a href="https://t.co/higlIm7L7P">pic.twitter.com/higlIm7L7P</a></p>&mdash; RubyConfIndia (@rubyconfindia) <a href="https://twitter.com/rubyconfindia/status/1695688691111584169?ref_src=twsrc%5Etfw">August 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Slides
+
+<embed src="http://{{ site.url }}/assets/ruby_conf_india_mfa_talk.pdf" type="application/pdf">
+
+![ruby_conf_india_1](http://{{ site.url }}/assets/ruby_conf_india_1.jpg)
+![ruby_conf_india_2](http://{{ site.url }}/assets/ruby_conf_india_2.jpg)
+
 ## Community contribution
 
 ### vietnamrb
 
-I am admin of [Ruby-Vietnam](http://ruby.org.vn/), a community of ~2000 developers in Vietnam. From 2015,
+I am admin of [Ruby-Vietnam](http://ruby.org.vn/), a community of ~2000 developers in Vietnam. From 2015 to 2019,
 I help Trung Le, founder of the community, organize events in Ho Chi Minh City and Ha Noi. There has been more than
 [20 meetups and hacknite](https://www.facebook.com/pg/vietnam.ruby/events/?ref=page_internal) since then.
 
@@ -40,5 +55,5 @@ The most notable feature that I developed there is the recurring payment module.
 
 ### Kipalog
 
-From 2018, I work on [Kipalog](kipalog.com), a knowledge sharing platform for Vietnamese developers, to improve performance and test coverage.
+From 2018-2019, I work on [Kipalog](kipalog.com), a knowledge sharing platform for Vietnamese developers, to improve performance and test coverage.
 Occasionally, I also develop new features to improve the user experience.
