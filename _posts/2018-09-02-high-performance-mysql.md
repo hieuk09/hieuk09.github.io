@@ -7,7 +7,7 @@ categories: book database
 
 # Info
 
-![book](http://{{ site.url }}/assets/high_performance_mysql.png)
+![book](https://{{ site.url }}/assets/high_performance_mysql.png)
 
 ```
 - Pages: 2025

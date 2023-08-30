@@ -20,14 +20,14 @@ scene we create will be our game main scene.
 A scene is built using a collection of Nodes. We can click on `+` button on
 Scene panel to add new Node:
 
-![create_node](http://{{ site.url }}/assets/create_node.png)
+![create_node](https://{{ site.url }}/assets/create_node.png)
 
 For root node, you can choose `Node` option in the creation options.
 
 Now you can play your game with `Cmd + B`, or the `|>` button on the shortcut
 menu:
 
-![play_game](http://{{ site.url }}/assets/play_game.png)
+![play_game](https://{{ site.url }}/assets/play_game.png)
 
 Now the game is built successfully and appear. Even though we cannot play it
 yet, we've succeeded in creating our first game with Godot!
