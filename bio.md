@@ -19,14 +19,14 @@ In my free time, I also contribute to open-source projects and organize tech eve
 
 #### Talk: Building a Resilient MFA Framework: Strategies and Best Practices
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strengthening Security: Unveiling the MFA Framework<br><br>Join us at <a href="https://twitter.com/hashtag/RubyConf?src=hash&amp;ref_src=twsrc%5Etfw">#RubyConf</a> India to hear Hieu Nguyen&#39;s insights on crafting an unbreakable MFA framework. Your data safety matters – don&#39;t miss out!<a href="https://twitter.com/hashtag/rubyconfIndia?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconfIndia</a> <a href="https://twitter.com/hashtag/Rubyfriends?src=hash&amp;ref_src=twsrc%5Etfw">#Rubyfriends</a> <a href="https://twitter.com/hashtag/rubydevelopers?src=hash&amp;ref_src=twsrc%5Etfw">#rubydevelopers</a> <a href="https://twitter.com/hashtag/rubyconfindia2023?src=hash&amp;ref_src=twsrc%5Etfw">#rubyconfindia2023</a> <a href="https://twitter.com/hashtag/ruby?src=hash&amp;ref_src=twsrc%5Etfw">#ruby</a> <a href="https://twitter.com/hashtag/rails?src=hash&amp;ref_src=twsrc%5Etfw">#rails</a> <a href="https://twitter.com/hashtag/RCI23?src=hash&amp;ref_src=twsrc%5Etfw">#RCI23</a> <a href="https://t.co/higlIm7L7P">pic.twitter.com/higlIm7L7P</a></p>&mdash; RubyConfIndia (@rubyconfindia) <a href="https://twitter.com/rubyconfindia/status/1695688691111584169?ref_src=twsrc%5Etfw">August 27, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7BNm3tlF94?si=NSYNcczA1q0DdOIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Slides
 
-<embed src="http://{{ site.url }}/assets/ruby_conf_india_mfa_talk.pdf" type="application/pdf">
+<embed src="https://{{ site.url }}/assets/ruby_conf_india_mfa_talk.pdf" type="application/pdf">
 
-![ruby_conf_india_1](http://{{ site.url }}/assets/ruby_conf_india_1.jpg)
-![ruby_conf_india_2](http://{{ site.url }}/assets/ruby_conf_india_2.jpg)
+![ruby_conf_india_1](https://{{ site.url }}/assets/ruby_conf_india_1.jpg)
+![ruby_conf_india_2](https://{{ site.url }}/assets/ruby_conf_india_2.jpg)
 
 ## Community contribution
 
