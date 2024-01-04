@@ -15,6 +15,16 @@ In my free time, I also contribute to open-source projects and organize tech eve
 
 ## Conference
 
+### RubyConf Taiwan 2023
+
+#### Talk: Real world application of Ractor
+
+<embed src="https://{{ site.url }}/assets/ruby_conf_taiwan_ractor_talk.pdf" type="application/pdf">
+
+![ruby_conf_india_1](https://{{ site.url }}/assets/ruby_conf_taiwan_1.jpg)
+![ruby_conf_india_2](https://{{ site.url }}/assets/ruby_conf_taiwan_2.jpg)
+![ruby_conf_india_2](https://{{ site.url }}/assets/ruby_conf_taiwan_3.jpg)
+
 ### RubyConf India 2023
 
 #### Talk: Building a Resilient MFA Framework: Strategies and Best Practices
