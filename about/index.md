@@ -11,58 +11,65 @@ title: My Resume
 
 ### Feb 2022 - Present: Software Engineer at Ascenda
 
-- Implement enhancements to various authentication and authorization features, bolstering security and streamlining user access controls.
-- Lead the Observability initiative across the company, implementing robust monitoring and logging systems to ensure efficient troubleshooting and proactive issue resolution.
-- Manage a high-performing team, providing leadership, mentorship, and fostering professional growth among team members.
-- Collaborate with multiple teams to ensure informed design decision, in order to deliver a new product
+- Led infrastructure-wide initiatives across a 6-engineer team to optimize platform reliability, scalability, and developer velocity.
+- Drove Kafka adoption, enabling real-time, high-throughput event processing across critical systems; improved responsiveness and decoupling at scale.
+- Built an automated multi-tenant onboarding system, cutting provisioning time by 6x and reducing operational overhead by 90%.
+- Spearheaded an observability initiative: built 50+ dashboards and shipped 2,000+ telemetry metrics, reducing incident response time by 66%.
+- Integrated advanced authentication protocols (FIDO, Google Authenticator) to improve security and regulatory compliance.
+
+**Tech**: Go (some services), Ruby, Kafka, Redis, AWS, Kubernetes, Postgres
 
 ### Feb 2021 - Feb 2022: Software Engineer at Zendesk
 
-- Improve Observability for various services
-- Improve smoke and integration tests coverage for Chat Product
-- Work on migrating hundred of millions records from Riak to AWS Aurora
+- Led end-to-end migration of hundreds of millions of records from Riak to AWS Aurora, improving read/write throughput and reducing latency.
+- Implemented robust smoke & integration test infrastructure to harden deployment pipelines for the Chat platform.
+- Developed observability systems across multiple services, reducing MTTR and improving cross-team troubleshooting efficiency.
+
+**Tech**: Golang, Python, Redis, Kafka, AWS, Kubernetes, MySQL, Aurora
 
 ### June 2019 - Feb 2021: Software Engineer at Ascenda
 
-Lead Guardhouse team:
-- Design and implement from ground up the authentication service (Guardhouse),
-  which conforms with OpenID standard. The system is flexible and extensible,
-  can be integrated with most bank SSO systems within a few days.
-- Design and implement internal tools for all services to integrate with Guardhouse,
-  which boosts their productivity and reduces implementation time.
+- Built a fully OpenID-compliant authentication platform, capable of SSO integration with banking systems in <1 week.
+- Developed tooling to automate and accelerate service onboarding to the auth platform, cutting integration effort by 70%.
+
+**Tech**: Kafka, Redis, Postgres, AWS, Kubernetes, Ruby
 
 ### Nov 2018 - May 2019: Software Engineer at SalesWhale
 
-- Revamp import/enrolment flow to simplify the process
-- Refactor critical part of Gmail/Outlook integration to make the system more stable
+- Rebuilt user onboarding pipelines, slashing onboarding time from days to minutes via automation and flow redesign.
+- Optimized Gmail/Outlook integration stack, dropping peak error rates from 30% to <5%.
+
+**Tech**: Redis, Postgres, AWS, Ruby, SQS
 
 ### July 2018 - Jun 2019: Software Engineer at StadiumGoods
 
-- Maintain multiple applications to connect with suppliers.
-- Build price notifications and recommendations for sellers.
-- Build API Gateway, which supports Mobile App to connect to various services.
+- Designed and deployed real-time pricing recommendation engine, enabling dynamic feedback to sellers.
+- Built scalable API Gateway to support high-volume mobile clients.
+
+**Tech**: AWS, Redis, Postgres, Ruby
 
 ### Sep 2015 - July 2018: Software Engineer at TINYpulse
 
-- Double the userbase from 150k to 300k users without any major issues
-- Refactor survey generating tool to make it 10x faster
-- Rework the Question Management module (most requested feature) to make it
-faster and more flexible
-- Build Central Authentication module as the foundation of the transformation of
-TINYpulse from a monolithic application to a platform
+- Scaled backend infrastructure to support a 2x user base growth with minimal downtime.
+- Refactored critical systems including survey engine (10x faster) and question management module, significantly improving performance and time-to-market.
+- Designed Central Auth module, laying the groundwork for microservice transition.
+
+**Technology**: Redis, MySQL, Elasticsearch, MongoDB, Ruby, Heroku
 
 ### Dec 2014 - Aug 2015: Software Engineer at PLZ
 
-- Develop betting system which supports real-time betting
-- Build API server in Ruby which can serve upto 1k requests/sec on a single
-standard Digital Ocean instance
+- Developed real-time betting system with sub-second latency and high concurrency support.
+- Engineered a high-performance Ruby API server (1,000+ RPS) on minimal infrastructure.
+
+**Tech**: Redis, Postgres, Ruby, DigitalOcean
 
 ### Jun 2012 - Dec 2014: Software Engineer at EastAgile
 
-- Develop several RoR applications for different startups in Silicon Valley
-- Most notably: improve loading time for transactions page of InDinero from 120s
-to 3s
-- Train new intern and improve company software process
+- Delivered performant apps for Silicon Valley startups in fast-paced agile cycles.
+- Improved transaction rendering speed 40x (120s → 3s) for InDinero through query optimization.
+- Mentored interns and helped scale dev processes for efficiency.
+
+**Tech**: Redis, Postgres, MySQL, Elasticsearch, Heroku, Ruby
 
 ### Sep 2011 - Mar 2012: Intern at AILAB, HCMC University of Science
 
