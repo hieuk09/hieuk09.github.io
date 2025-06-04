@@ -11,9 +11,7 @@ categories: comic, manga
 This powerful line, uttered by Demon King Vearn in "Dragon Quest: Adventure of Dai",
 resonated with me deeply when I first encountered it at eight years old.
 It was the first thing that sprang to mind whenever I recalled the manga.
-Only recently, after watching the anime,
-have I begun to understand the complex layers behind that visceral
-reaction.
+Only recently, after watching the anime, that I begin to understand the feeling that reaction.
 
 For those unfamiliar with the manga, this happens during the final battle between the Demon King
 Vearn, having waited thousands of years for the power of Gods to wane
@@ -53,16 +51,20 @@ a desperate reaffirmation of his strength, a defiant roar against his own percei
 and perhaps, a form of self-punishment.
 
 Why does this fictional moment matter? Because, if we're honest, many of us have walked in
-Vearn's shoes. We've let pride dictate our actions, choosing to "win" a minor battle at
+Vearn's shoes. We've let pride and anger dictate our actions, choosing to "win" a minor battle at
 the expense of a greater, more meaningful victory. We've sacrificed things we hold dear -
 relationships, opportunities, principles - all to achieve a small triumph that
 momentarily soothes our ego or reaffirms our self-worth.
 
-But as Vearn's story tragically illustrates, even monumental sacrifices born of wounded pride
-don't guarantee the desired outcome. He still lost. When we allow pride to cloud our judgment,
-we risk not only the larger war but also the very "small victory" we so desperately chase.
+But as Vearn’s story tragically illustrates, acting rashly on intense emotions doesn’t
+guarantee the desired outcome. He still lost. Perhaps if Vearn had paused to truly experience
+his anger and understand its origins - the fear, the wounded sense of self - his judgment
+might not have been so clouded. When we don't stop to reflect on why we feel such powerful emotions,
+we risk not only the larger 'war' but also the very 'small victory' we impulsively chase.
 
-So, if "victory makes it all worthwhile," perhaps we should consider what true victory entails,
-especially when our pride is on the line. Sometimes, the wisest course, the one that leads to
-a more significant, lasting success, is to acknowledge our limits and choose our battles carefully.
-Indeed, sometimes, as Reigen from "Mob Psycho" aptly put it: "It's fine to run away."
+So, if "victory makes it all worthwhile", then the first battleground we must master is within ourselves.
+Acknowledging our limits, choosing our engagements wisely, and defining what victory truly means for us -
+these all require a clear mind. To achieve that clarity, especially when emotions surge,
+the essential step is that pause for self-reflection. As the ancient general Sun Tzu so aptly put it:
+
+"Understand yourselves, understand your enemies and you will win all battles."
